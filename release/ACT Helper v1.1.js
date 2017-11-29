@@ -1,7 +1,7 @@
 /*/
  *###########################################################################
  *#ACT Helper v1.1 [Last Updated: 2017/11/05]
- *#Copyright (C) Genbu Project & Genbu Hase 2017 All Rights Reversed.
+ *#Copyright (C) Genbu Project 2017 All Rights Reversed.
  *###########################################################################
 /*/
 class ACTHelper {

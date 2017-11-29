@@ -1,7 +1,7 @@
 /*/
  *###########################################################################
  *#ACT Helper v1.0 [Last Updated: 2017/02/06]
- *#Copyright (C) Genbu Project & Genbu Hase 2017 - 2020 All Rights Reversed.
+ *#Copyright (C) Genbu Project 2017 - 2020 All Rights Reversed.
  *###########################################################################
 /*/
 window.ACTHelper = function (RootElement, ResFile, OnLoad) {
